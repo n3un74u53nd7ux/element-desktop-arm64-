@@ -1,4 +1,4 @@
-# element-desktop-arm64-
+# element-desktop-arm64
 element-desktop for debian &amp; debian-based systems with arm64 arch
 like raspberry-pi 3B/4/400
 
